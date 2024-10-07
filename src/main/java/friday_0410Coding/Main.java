@@ -17,3 +17,6 @@ public class Main {
      System.out.println("Perimeter of the triangle is: " + perimeter + "\nThe Area of the Triangle is: " + area);
  }
 }
+
+
+
