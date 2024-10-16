@@ -4,20 +4,9 @@ package _04Week_Monday_Challenge;
 import java.util.Arrays;
 public class Main {
 	public void Start() {
-		// int[] array = { 3, 6, 1, 4, 2, 9, 7, 8, 5, 0 };
-		// int x = 1;
-		// Arrays.sort(array);
-		// sort array
-		// int result = binarySearch(array, x);
-		// Print values in array after sort
-		// System.out.println(result);
 		
-		//array = {} // empty array.
-		// result = -1.
 		
-		int[]arr = {};
-		
-		//int[] arr = { 10, 20, 30, 50, 60, 80, 110, 130, 140, 170 };
+		int[] arr = { 10, 20, 30, 50, 60, 80, 110, 130, 140, 170 };
 		Arrays.sort(arr);
 		int x = 110;
 		int result = binarySearch(arr, x);
